@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/elahemrtz/quiz-platform/backend/db"
-	"github.com/elahemrtz/quiz-platform/backend/handlers"
+	"github.com/fatemeh-fo/WEB-project//Back/handlers"
+	"github.com/fatemeh-fo/WEB-project/Back/db/database.go"
 	"github.com/gin-gonic/gin"
 )
 
