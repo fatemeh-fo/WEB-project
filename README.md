@@ -1,2 +1,2 @@
 # WEB-project
-online quiz
+online quiz platform
