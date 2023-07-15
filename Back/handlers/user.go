@@ -4,9 +4,9 @@ import (
 	//"encoding/json"
 	"net/http"
 
+	"github.com/fatemeh-fo/WEB-project/Back/models"
 	"github.com/gin-gonic/gin"
-	"github.com/your-username/quiz-platform/backend/models"
-	"github.com/your_username/quiz-platform/backend/utils"
+	"github.com/fatemeh-fo/WEB-project/Back/handlers/utils.go"
 )
 
 // RegisterUserHandler handles user registration.
